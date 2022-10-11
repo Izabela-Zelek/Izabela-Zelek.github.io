@@ -1,17 +1,17 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2022-10-11 09:34:08
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: "Let me introduce myself"
+subtitle: 'Hello! My name is Izabela Zelek. Please click the button below to learn more about me.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 small: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://avatars.githubusercontent.com/u/58327071?s=400&u=5b00ce6a0d6af094f0fac4c9d9f1bf75ea2aca40&v=4
+image: >-
+  https://i.postimg.cc/RZmj39db/aboutBG.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://i.postimg.cc/RZmj39db/aboutBG.png
 category: blog
 tags:
   - welcome
@@ -19,6 +19,7 @@ tags:
 author: mranderson
 paginate: true
 ---
+
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.

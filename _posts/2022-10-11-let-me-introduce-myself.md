@@ -1,8 +1,8 @@
 ---
 date: 2022-10-11 09:34:08
 layout: post
-title: "Let me introduce myself"
-subtitle: 'Hello! My name is Izabela Zelek. Please click the button below to learn more about me.'
+title: "Izabela Zelek"
+subtitle: "Game Development at SETU"
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.

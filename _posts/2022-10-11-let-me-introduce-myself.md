@@ -1,8 +1,8 @@
 ---
 date: 2022-10-11 09:34:08
 layout: post
-title: "Izabela Zelek"
-subtitle: "Game Development at SETU"
+title: "About Me"
+subtitle: "Taking over the world, one line of code at a time."
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
@@ -16,7 +16,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: mranderson
+author: izabela
 paginate: true
 ---
 

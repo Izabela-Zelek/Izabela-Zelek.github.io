@@ -18,7 +18,7 @@ Example:
 
 ```yaml
 # site.yml
-name: Jekflix
+name: Izabela Zelek
 ```
 
 #### `title`
@@ -31,7 +31,7 @@ Example:
 
 ```yaml
 # site.yml
-title: Jekflix | A blog theme for Jekyll
+title: Izabela Zelek
 ```
 
 #### `description`

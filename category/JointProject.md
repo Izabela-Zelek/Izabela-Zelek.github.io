@@ -2,5 +2,5 @@
 layout: category
 title: Joint Project
 slug: Joint Project
-description: A category for code related posts.
+description: Collab game we made which includes basic pathfinding.
 ---

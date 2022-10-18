@@ -1,10 +1,10 @@
 ---
 date: 2018-04-21 12:26:40
 layout: post
-title: "TBC"
-subtitle: "TBC"
+title: "Solo Game"
+subtitle: "Solo Game"
 description: >- 
-  TBC
+  A website game I created a game by using JavaScript, HTML and CSS.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822137/theme11_vei7iw.jpg
 category: Grave Robber
@@ -12,7 +12,7 @@ tags:
   - HTML
   - CSS
   - Javascript
-author: mranderson
+author: izabela
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

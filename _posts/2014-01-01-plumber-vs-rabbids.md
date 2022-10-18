@@ -1,17 +1,17 @@
 ---
 date: 2017-06-08 12:00:00
 layout: post
-title: "TBC"
-subtitle: "TBC"
+title: "Solo Game"
+subtitle: "Solo Game"
 description: >- 
-  TBC
+  A game I made using x86 assembly language.
 category: Plumber VS Rabbids
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
 tags:
   - Assembly
   - Solo
-author: mranderson
+author: izabela
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

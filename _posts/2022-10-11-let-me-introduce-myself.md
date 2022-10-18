@@ -15,6 +15,7 @@ category: blog
 tags:
   - welcome
   - blog
+  - me
 author: izabela
 paginate: true
 ---

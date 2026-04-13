@@ -7,7 +7,7 @@ subtitle: "Taking over the world, one line of code at a time."
 description: >-
   Taking over the world, one line of code at a time.
 small: >-
-  https://avatars.githubusercontent.com/u/58327071?s=400&u=5b00ce6a0d6af094f0fac4c9d9f1bf75ea2aca40&v=4
+  /assets/img/profile.png
 image: >-
   https://i.postimg.cc/RZmj39db/aboutBG.png
 optimized_image: >-

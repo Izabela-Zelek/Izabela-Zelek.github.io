@@ -9,9 +9,9 @@ image: /assets/img/GeoVale.png
 optimized_image: /assets/img/GeoVale.png
 category: VR
 tags:
-  - HTML
-  - CSS
-  - Javascript
+  - C#
+  - Unity
+  - Visual Studio
 author: izabela
 ---
 

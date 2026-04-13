@@ -19,6 +19,8 @@ Geo Vale is a **VR** farming simulation developed in **Unity** that immerses pla
 
 Built with Unity, Geo Vale uses **low-poly** rendering with level-of-detail optimisation, physics-based interaction, and 3D audio to maintain performance and immersion. Designed as a non-competitive, single-player experience with no defined victory conditions, the project focuses on relaxation, player creativity, and systemic world simulation within a cohesive rural sandbox environment.
 
+> As this was created during my time in university, the university owns this project. Due to this, I cannot share the project code or files. See below for screenshots/videos from the game.
+
 ## Video Demo
 
 <iframe width="100%" height="400"

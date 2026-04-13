@@ -5,8 +5,8 @@ title: "Masters Dissertation"
 subtitle: "Latin Learning Demo"
 description: >- 
   A game demo created in Unity displaying a NLP Grammatical Error Correction System
-image: /assets/images/LatinGame.png
-optimized_image: /assets/images/LatinGame.png
+image: /assets/img/LatinGame.png
+optimized_image: /assets/img/LatinGame.png
 category: Artificial Intelligence
 tags:
   - C
@@ -16,7 +16,7 @@ author: izabela
 
 A Unity-based educational game designed to teach Latin through immersive, game-based learning. The project integrates a custom **Natural Language Processing** system built around a fine-tuned **BERT** model, capable of performing real-time **grammatical error correction** on player input. To address the lack of available Latin datasets, a **synthetic data generation pipeline** was developed to create grammatically correct and incorrect sentence pairs for training
 
-While the game environment and mechanics are intentionally kept simple, the primary focus of the project lies in the design, training, and integration of the **NLP system**. The result demonstrates how AI-driven feedback can be embedded within interactive applications to support language acquisition, particularly for low-resource and non-spoken languages.
+> While the game environment and mechanics are intentionally kept simple, the primary focus of the project lies in the design,    training, and integration of the **NLP system**. The result demonstrates how AI-driven feedback can be embedded within interactive applications to support language acquisition, particularly for low-resource and non-spoken languages.
 
 Accompanied published paper can be read <a href="https://zenodo.org/records/19229270" target="_blank">here</a>
 

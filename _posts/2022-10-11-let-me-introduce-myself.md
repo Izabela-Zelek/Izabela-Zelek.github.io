@@ -2,7 +2,6 @@
 date: 2022-10-11 09:34:08
 layout: post
 title: "About Me"
-featured: true
 subtitle: "Taking over the world, one line of code at a time."
 description: >-
   Taking over the world, one line of code at a time.

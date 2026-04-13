@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/profile.png
 name: izabela
 display_name: Izabela Zelek
 position: She/Her

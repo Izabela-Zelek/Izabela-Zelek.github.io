@@ -1,13 +1,13 @@
 ---
-date: 2018-03-12 12:26:40
+date: 2025-08-18 12:26:40
 layout: post
-title: "Solo Game"
-subtitle: "Solo Game"
+title: "Masters Dissertation"
+subtitle: "Latin Learning Demo"
 description: >- 
-  An OpenGL game in which I used texturing.
+  A game demo created in Unity displaying a NLP Grammatical Error Correction System
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme1_eoyjtl.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme1_eoyjtl.jpg
-category: Cube Field
+category: Artificial Intelligence
 tags:
   - C
   - C++

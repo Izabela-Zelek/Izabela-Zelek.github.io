@@ -21,14 +21,15 @@ author: izabela
 paginate: true
 ---
 
-Graduated with a 1.1 with a Honours Bachelor in Game Development.
-Graduated with a 1.1 with a Masters Degree in Applied Artificial Intelligence.
-Recently published a paper on Gamified Latin Learning – Using Game Based Immersive Learning and Natural Language Processing to Teach Latin - https://zenodo.org/records/19229270
+Graduated with a **1.1** with a Honours Bachelor in **Game Development**.
+Graduated with a **1.1** with a Masters Degree in **Applied Artificial Intelligence**.
+Recently published a paper on <a href="https://zenodo.org/records/19229270" target="_blank">Gamified Latin Learning – Using Game Based Immersive Learning and Natural Language Processing to Teach Latin</a>
+
 
 ### Skills
 * Programming Languages and Source Control (Unity Engine, C++, HTML, CSS, Assembly, Github, C#, Python)
 * Attention to detail
-* Leadership skills developed through organizing <a href="../tags/#collab">group projects</a> and group activities.
+* Leadership skills developed through organizing group projects and group activities.
 * Problem Solving and Critical thinking
 * Time Management
 * Experience with Adobe XD, Adobe Photoshop, Spriter and Visual Studio

@@ -27,7 +27,7 @@ During my studies, I developed a strong foundation in **software development**, 
 
 ### Current Status
 
-> I am currently seeking a graduate role while continuing to build my skills through personal projects. At the moment, I am collaborating on a café simulator, where I am responsible for the programming and implementation, working alongside an artist who is creating the game assets.
+> I am currently seeking a graduate role while continuing to build my skills through personal projects. At the moment, I am collaborating on a café simulator, where I am responsible for the programming and implementation, working alongside an artist who is creating the game assets. This is a passion project of ours that we work on in our spare time.
 
 ### Skills
 * **Languages & Development**: C++, C#, Python, HTML, CSS

@@ -50,5 +50,10 @@ During my studies, I developed a strong foundation in **software development**, 
 
 I enjoy both creative and technical work, including digital and traditional art, creative writing, and personal coding projects. I also have an interest in AI research and enjoy exploring how technology can be used in learning and interactive applications. Outside of this, I’ve been involved in volunteering, working with animals, children, and the elderly.
 
+### Debugging Process
+Like many developers, I rely on rubber duck debugging—although in my case, it usually involves explaining problems out loud to my pets. They’re very patient listeners, excellent at keeping secrets, and so far haven’t suggested any incorrect solutions, which puts them ahead of some debugging sessions.
+
+<img class="img-rounded" src="/assets/img/thegirls.png" alt="Two incredinly cute chinchillas">
+
 ### Contact
 If you’d like to get in touch, feel free to connect with me on LinkedIn or reach out through the contact page.

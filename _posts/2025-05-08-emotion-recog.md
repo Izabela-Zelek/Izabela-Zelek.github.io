@@ -27,7 +27,7 @@ Gameplay is built around this mechanic—players solve puzzles by interpreting e
 
 > As this was created during my time in university, the university owns this project. Due to this, I cannot share the project code or files. See below for screenshots/videos from the game.
 
-## Game Images
+## Video Demo
 
 <iframe width="100%" height="400"
   src="https://www.youtube.com/embed/MteQQawkRyM"

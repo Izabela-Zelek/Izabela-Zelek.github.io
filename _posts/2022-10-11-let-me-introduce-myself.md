@@ -32,7 +32,7 @@ During my studies, I developed a strong foundation in **software development**, 
 ### Skills
 * **Languages & Development**: C++, C#, Python, HTML, CSS
 * **Tools & Frameworks**: Unity, GitHub, Visual Studio
-* **AI & Data: TensorFlow**, Keras, Natural Language Processing
+* **AI & Data**: TensorFlow, Keras, Natural Language Processing
 * **Other Tools**: Adobe XD, Photoshop, Spriter
 
 ### Core Strengths

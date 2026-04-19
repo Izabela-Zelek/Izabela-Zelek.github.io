@@ -21,18 +21,25 @@ author: izabela
 paginate: true
 ---
 
-Graduated with a **1.1** with a Honours Bachelor in **Game Development**.
-Graduated with a **1.1** with a Masters Degree in **Applied Artificial Intelligence**.
-Recently published a paper on <a href="https://zenodo.org/records/19229270" target="_blank">Gamified Latin Learning – Using Game Based Immersive Learning and Natural Language Processing to Teach Latin</a>
+I’m a recent graduate of South East Technological University, where I completed both a BSc (Hons) in Computer Games Development and an MSc in Applied Artificial Intelligence, achieving **First Class Honours** in both.
 
+During my studies, I developed a strong foundation in **software development**, with experience across **programming, system design, and testing**. I’ve worked on a range of projects, including a research project focused on gamified learning, where I used **natural language processing** to support Latin language education. This work, entitled <a href="https://zenodo.org/records/19229270" target="_blank">Gamified Latin Learning – Using Game Based Immersive Learning and Natural Language Processing to Teach Latin</a>, was published and accepted for presentation at the International Conference on Artificial Intelligence and Cognitive Science (AICS 2025).
+
+### Current Status
+
+> I am currently seeking a graduate role while continuing to build my skills through personal projects. At the moment, I am collaborating on a café simulator, where I am responsible for the programming and implementation, working alongside an artist who is creating the game assets.
 
 ### Skills
-* Programming Languages and Source Control (Unity Engine, C++, HTML, CSS, Assembly, Github, C#, Python)
-* Attention to detail
-* Leadership skills developed through organizing group projects and group activities.
-* Problem Solving and Critical thinking
-* Time Management
-* Experience with Adobe XD, Adobe Photoshop, Spriter and Visual Studio
+* **Languages & Development**: C++, C#, Python, HTML, CSS
+* **Tools & Frameworks**: Unity, GitHub, Visual Studio
+* **AI & Data: TensorFlow**, Keras, Natural Language Processing
+* **Other Tools**: Adobe XD, Photoshop, Spriter
+
+### Core Strengths
+* Strong problem-solving and analytical thinking
+* Experience working in team-based development environments
+* Ability to manage time and deliver work to deadlines
+* Detail-oriented approach to development and testing
 
 ### Languages
 
@@ -41,8 +48,7 @@ Recently published a paper on <a href="https://zenodo.org/records/19229270" targ
 
 ### Interests
 
-* Digital and Traditional Art
-* Editing and Translating e-books
-* Creative Writing
-* Software Development and Programming
-* Volunteering
+I enjoy both creative and technical work, including digital and traditional art, creative writing, and personal coding projects. I also have an interest in AI research and enjoy exploring how technology can be used in learning and interactive applications. Outside of this, I’ve been involved in volunteering, working with animals, children, and the elderly.
+
+### Contact
+If you’d like to get in touch, feel free to connect with me on LinkedIn or reach out through the contact page.
